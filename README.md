@@ -46,7 +46,7 @@ I have hands-on experience in **web development, backend systems, and AI-powered
 
 ## Connect with Me  
 - 📧 [Email](kamaucyprian12@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/cyprian-kamau-a49943270/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/cyprian-kamau)  
 
 
 ✨ Open to internships, part-time roles, and collaborations in software development, data, and AI-driven projects.
