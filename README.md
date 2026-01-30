@@ -11,7 +11,7 @@ I have hands-on experience in **web development, backend systems, and AI-powered
 - 👨‍💻 Developing projects with **React, Vue.js, Node.js, FastAPI, MongoDB**  
 - 🌍 Active in tech communities: **Chess Club Treasurer**, **IEEE Treasury & Secretariat Committees**  
 - 📚 Currently advancing in **Data Engineering (ALX)**, and exploring **AI for climate and HR tech**  
-- 🏆 Part of the hackathon-winning team behind **PulseTrack** – AI HR sentiment analysis tool  
+- 🏆 Part of the hackathon-winning team behind **EcoTrack** – AI Carbon tracking and Energy conservation tool
 
 
 ## What I like to discuss  
