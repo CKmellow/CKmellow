@@ -31,8 +31,7 @@ I have hands-on experience in **web development, backend systems, and AI-powered
 - **Architecture:** REST APIs, Monolithic & Microservices
 
 ### 📱 Mobile  
-- **Languages:** Kotlin (beginner)  
-- **Focus:** Native Android development  
+- **Languages:** Kotlin, flutter 
 
 ### 🔐 Networking & Security  
 - CCNA: Switching, Routing & Wireless Essentials  
