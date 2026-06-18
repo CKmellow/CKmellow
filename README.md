@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════
      CYPRIAN KAMAU — GitHub Profile README
-     Replace "YOUR-GITHUB-USERNAME" with your actual GitHub handle
+     Replace "CKmellow" with your actual GitHub handle
      ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
@@ -140,17 +140,17 @@ open_to     : Internships · Part-time roles · Collaborations
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=534AB7&icon_color=1D9E75&text_color=2C2C2A&ring_color=534AB7&border_radius=8" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CKmellow&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=534AB7&icon_color=1D9E75&text_color=2C2C2A&ring_color=534AB7&border_radius=8" height="155"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=FAFAFA&title_color=534AB7&text_color=2C2C2A&border_radius=8" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CKmellow&layout=compact&hide_border=true&bg_color=FAFAFA&title_color=534AB7&text_color=2C2C2A&border_radius=8" height="155"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB-USERNAME&hide_border=true&background=FAFAFA&ring=534AB7&fire=D85A30&currStreakLabel=534AB7&sideNums=3C3489&currStreakNum=3C3489&sideLabels=888780&dates=888780&border_radius=8" height="155"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CKmellow&hide_border=true&background=FAFAFA&ring=534AB7&fire=D85A30&currStreakLabel=534AB7&sideNums=3C3489&currStreakNum=3C3489&sideLabels=888780&dates=888780&border_radius=8" height="155"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=FAFAFA&color=534AB7&line=1D9E75&point=534AB7&area_color=EEEDFE&area=true&hide_border=true&radius=8" alt="Contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CKmellow&bg_color=FAFAFA&color=534AB7&line=1D9E75&point=534AB7&area_color=EEEDFE&area=true&hide_border=true&radius=8" alt="Contribution graph"/>
 </p>
 
 ---
@@ -176,7 +176,7 @@ open_to     : Internships · Part-time roles · Collaborations
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=534AB7&label=profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=CKmellow&style=flat-square&color=534AB7&label=profile+views" alt="Profile views" />
 </p>
 
 <br/>
