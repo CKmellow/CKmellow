@@ -89,51 +89,6 @@ open_to     : Internships · Part-time roles · Collaborations
 
 ---
 
-### `> cat ./projects/featured.md`
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🌱 EcoTrack**
-> AI-powered carbon tracking & energy conservation platform. Built for impact, won a hackathon.
-
-`Python` `FastAPI` `React` `AI/ML`
-
-</td>
-<td width="50%" valign="top">
-
-**🧠 AI for HR Tech**
-> Exploring machine learning applications in workforce management and human resources.
-
-`Python` `FastAPI` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📡 Data Pipelines**
-> End-to-end data engineering pipelines built through the ALX programme.
-
-`Python` `PostgreSQL` `ETL`
-
-</td>
-<td width="50%" valign="top">
-
-**📱 Mobile Apps**
-> Cross-platform and native Android applications.
-
-`Kotlin` `Flutter` `REST APIs`
-
-</td>
-</tr>
-</table>
-
----
-
 ### `> cat ./stats.log`
 
 <br/>
