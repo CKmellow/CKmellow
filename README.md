@@ -1,52 +1,51 @@
-# Hi there 👋  
+# Hey, I'm Cyprian Kamau 👋
 
-## Who am I?  
-A Computer Science student based in Nairobi, Kenya.  
-Passionate about building scalable software solutions, applying AI to real-world problems, and developing impactful digital products.  
-I have hands-on experience in **web development, backend systems, and AI-powered applications** through academic projects, hackathons, and freelance collaborations.  
+I'm a Computer Science student at Strathmore University, Nairobi — building scalable software, applying AI to real-world problems, and shipping things that matter.
 
+My work spans web development, backend systems, and AI-powered applications, shaped through academic projects, hackathons, and freelance collaborations.
 
-## What I’m doing  
-- 🎓 Studying **Bachelor of Informatics and Computer Science** at Strathmore University  
-- 👨‍💻 Developing projects with **React, Vue.js, Node.js, FastAPI, MongoDB**  
-- 🌍 Active in tech communities: **Chess Club Treasurer**, **IEEE Treasury & Secretariat Committees**  
-- 📚 Currently advancing in **Data Engineering (ALX)**, and exploring **AI for climate and HR tech**  
-- 🏆 Part of the hackathon-winning team behind **EcoTrack** – AI Carbon tracking and Energy conservation tool
+---
 
+## 🎯 What I'm Working On
 
-## What I like to discuss  
-💬 Web development • System design • AI for social good • Data structures • Clean code • Tech for sustainability  
+- 🎓 **Bachelor of Informatics & Computer Science** — Strathmore University
+- 📡 **Data Engineering** — advancing through the ALX programme
+- 🌍 Exploring **AI applications in climate tech and HR tech**
+- 🏆 Co-built **EcoTrack** — an AI-powered carbon tracking and energy conservation tool (hackathon winner)
+- 🤝 Active in **IEEE** (Treasury & Secretariat) and **Chess Club** (Treasurer)
 
+---
 
-## My Skill Set  
+## 🛠 Tech Stack
 
-### 🖥 Frontend  
-- **Languages:** JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** React, Vue.js, TailwindCSS  
+**Frontend**
+`JavaScript` `HTML` `CSS` `React` `Vue.js` `TailwindCSS`
 
-### 🗄 Backend  
-- **Languages:** Python, JavaScript (Node.js)  
-- **Frameworks:** FastAPI, Express.js  
-- **Databases:** MongoDB, PostgreSQL  
-- **Architecture:** REST APIs, Monolithic & Microservices
+**Backend**
+`Python` `Node.js` `FastAPI` `Express.js` `MongoDB` `PostgreSQL`
+REST APIs · Monolithic & Microservices architecture
 
-### 📱 Mobile  
-- **Languages:** Kotlin, flutter 
+**Mobile**
+`Kotlin` `Flutter`
 
-### 🔐 Networking & Security  
-- CCNA: Switching, Routing & Wireless Essentials  
-- IBM Cybersecurity Fundamentals  
+**Networking & Security**
+CCNA: Switching, Routing & Wireless Essentials · IBM Cybersecurity Fundamentals
 
-### ⚙️ Development Tools  
-- Git & GitHub & GitLab
-- Agile methods (Scrum, Trello, Jira)  
-- CI/CD (GitHub Actions)  
+**Tooling & Workflow**
+`Git` `GitHub` `GitLab` · Agile (Scrum, Trello, Jira) · CI/CD with GitHub Actions
 
+---
 
-## Connect with Me  
-- 📧 [Email](kamaucyprian12@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/cyprian-kamau)
-- 🌐 [Portfolio](https://cypriankamau.vercel.app/)  
+## 💬 Things I Like to Talk About
 
+Web development · System design · AI for social good · Data structures · Clean code · Tech for sustainability
 
-✨ Open to internships, part-time roles, and collaborations in software development, data, and AI-driven projects.
+---
+
+## 📬 Let's Connect
+
+- 📧 [kamaucyprian12@gmail.com](mailto:kamaucyprian12@gmail.com)
+- 💼 [linkedin.com/in/cyprian-kamau](https://www.linkedin.com/in/cyprian-kamau)
+- 🌐 [cypriankamau.vercel.app](https://cypriankamau.vercel.app)
+
+> ✨ Open to internships, part-time roles, and collaborations in software development, data engineering, and AI-driven projects.
