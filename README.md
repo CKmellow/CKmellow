@@ -1,6 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════
      CYPRIAN KAMAU — GitHub Profile README
-     Replace "CKmellow" with your actual GitHub handle
      ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
